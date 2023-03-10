@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm currently studying at St. Joseph's College of Engineering, OMR, Chennai.
-I'm currently learning Python Flask framework & SQLAlchemy.
-I'm currently working on a movie ticket booking web-app.
+###I'm currently studying at St. Joseph's College of Engineering, OMR, Chennai.
+###I'm currently learning Python Flask framework & SQLAlchemy.
+###I'm currently working on a movie ticket booking web-app.
 
 <!--
 **YogeshwaranS-ABD/YogeshwaranS-ABD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
