@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🎓 I'm currently studying at St. Joseph's College of Engineering, OMR, Chennai.
+- 🎓 I have completed my Bachelors degree in Electronics and Communication Engineering at t St. Joseph's College of Engineering, OMR, Chennai. Year of passing 2024.
 - 🌱 I'm currently learning Python Flask framework & SQLAlchemy.
-- 📽 I'm currently working on a movie ticket booking web-app.
-
+- ⚡ I have completed my final year project with Rahul.R from my class. The project is to develop a deep learning model to extract the rooftop area from a satelitte images. We also presesnted a paper about this work in ICITIIT'24 an International IEEE Conference under Track-7. I'm Proud to say that, we also received the best paper award for this paper.
 <!--
 **YogeshwaranS-ABD/YogeshwaranS-ABD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
